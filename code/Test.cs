@@ -8,7 +8,7 @@ namespace TestProject
 {
     public class Test
     {
-        public string RunTest()
+        public static string RunTest()
         {
             return "done";
         }
