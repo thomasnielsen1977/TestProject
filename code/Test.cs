@@ -8,6 +8,9 @@ namespace code
 {
     public class Test
     {
-
+        public static string RunTest()
+        {
+            return DateTime.Now.ToString();
+        }
     }
 }
